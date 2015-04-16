@@ -1,1 +1,2 @@
- This is my personal repo of exercises I've completed during my amazing time at Codeup!
+This is my personal repo of exercises I've completed during my amazing time at Codeup!
+It's awesome.
